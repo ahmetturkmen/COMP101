@@ -2,7 +2,7 @@ package oldFinal;
 
 import java.util.Scanner;
 
-public class q1old {
+public class q1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
