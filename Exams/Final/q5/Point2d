@@ -1,0 +1,31 @@
+package com.company.q5;
+
+/**
+ * Created by ahmetturkmen on 1/9/17.
+ */
+public class Point2d {
+    private double x;
+    private double y;
+
+    public Point2d(double x1, double y1) {
+        setX(x1);
+        setY(y1);
+    }
+
+    public double getX() {
+        return x;
+    }
+
+    public void setX(double x) {
+       this.x = x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public void setY(double y) {
+
+       this.y = y;
+    }
+}
