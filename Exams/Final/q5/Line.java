@@ -1,4 +1,4 @@
-package com.company.q5;
+package com.ahmetturkmen.q5;
 
 /**
  * Created by ahmetturkmen on 1/9/17.
