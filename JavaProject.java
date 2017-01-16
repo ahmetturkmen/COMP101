@@ -1,6 +1,6 @@
- 
-  //AHMET TURKMEN
- //110510016
+/**
+ * Created by ahmetturkmen on 08/01/2017
+ */
 
 
 import java.util.Arrays;
