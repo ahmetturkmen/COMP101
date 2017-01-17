@@ -22,7 +22,7 @@ public class programA {
         point2D b =new point2D(x_2,y_2);
         point2D c= new point2D(x_3,y_3);
 
-        triangle t1 = new triangle(a,b,c);
+        Triangle t1 = new Triangle(a,b,c);
 
         System.out.print(t1.calculateCircumference(a,b,c)+"\n");
         System.out.print(t1.calculateArea(a,b,c));
